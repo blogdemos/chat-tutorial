@@ -1,0 +1,21 @@
+{
+  "name": "chat-tutorial",
+  "version": "0.0.0",
+  "homepage": "https://github.com/blogdemos/chat-tutorial",
+  "authors": [
+    "yuanzm <1229084233@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "vue": "~1.0.13"
+  }
+}
